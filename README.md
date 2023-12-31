@@ -1,2 +1,2 @@
-# personal_blog_with_rust
+# Personal Blog With Rust
 Personal Blog With Cargo Book
