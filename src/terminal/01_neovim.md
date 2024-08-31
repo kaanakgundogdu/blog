@@ -1,6 +1,8 @@
 # Neovim ve Eklentilerinin Kurulumu
 
-Merhabalar bu paylaşımda Neovim ve NVChad kurulumundan bahsedeceğim. Neovim ve Vim hakkında ayrı bir paylaşım olabilir bu yüzden Neovim ve Vim'den ayrıntılı bir şekilde bahsetmeyeceğim.
+Merhabalar bu paylaşımda Neovim kurulumundan bahsedeceğim. Neovim ve Vim hakkında ayrı bir paylaşım olabilir bu yüzden Neovim ve Vim'den ayrıntılı bir şekilde bahsetmeyeceğim.
+
+![nvim](images/01_images/neo1.jpeg)
 
 Bu paylaşımda ubuntu 22.04.3 LTS kullanarak kurulumları yapacağım. WSL'de Ubuntu kullanımını hakkında bilgi almak için şu sayfayı ziyaret edebilirsiniz:
 [How to install Linux on Windows with WSL
