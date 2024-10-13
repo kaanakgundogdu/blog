@@ -11,6 +11,7 @@
 # TERMINAL
 - []()
     - [1. Neovim Kurulumu](terminal/01_neovim.md)
+    - [2. NvChad Kurulumu](terminal/02_nvchad.md)
 
 ---
 
