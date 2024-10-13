@@ -1,4 +1,4 @@
-# NvChad Nedir
+# NvChad
 NvChad estetik bir kullanıcı arayüzü ve ayağa kalkma süresi çok kısa olan (kendileri bu hıza "blazing fast" diyorlar) lua programlama dili ile yazılmıs bir neovim konfigürasyonudur.
 Estetik bir kullanıcı arayüzü deneyimi sağlamak için teleskop, nvim-tree vb. gibi kullanıcı arayüzü eklentileri de kolayca yüklenebiliyor hatta bazıları varsayılan olarak geliyor.
 ### Ön gereksinimler
