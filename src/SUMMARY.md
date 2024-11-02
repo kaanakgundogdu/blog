@@ -12,6 +12,7 @@
 - []()
     - [1. Neovim Kurulumu](terminal/01_neovim.md)
     - [2. NvChad Kurulumu](terminal/02_nvchad.md)
+    - [3. Donut Animation In Terminal](terminal/03_donut_math.md)
 
 ---
 
