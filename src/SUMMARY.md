@@ -16,6 +16,13 @@
 
 ---
 
+---
+# Visual Novel With Godot
+- []()
+    - [Devlog #1: Dialog System Part 1](VisualNovelGodot/devlog1.md)
+---
+
+
 # GAME DEVELOPMENT
 ---
 
